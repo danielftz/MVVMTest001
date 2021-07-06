@@ -1,0 +1,13 @@
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\bin\Debug\netstandard2.0\MVVMTest001.deps.json
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\bin\Debug\netstandard2.0\MVVMTest001.dll
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\bin\Debug\netstandard2.0\ref\MVVMTest001.dll
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\bin\Debug\netstandard2.0\MVVMTest001.pdb
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\MVVMTest001.csproj.AssemblyReference.cache
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\MVVMTest001.AssemblyInfoInputs.cache
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\MVVMTest001.AssemblyInfo.cs
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\MVVMTest001.csproj.CoreCompileInputs.cache
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\XamlC.stamp
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\MVVMTest001.dll
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\ref\MVVMTest001.dll
+F:\TD\MVVMTest\MVVMTest001\MVVMTest001\obj\Debug\netstandard2.0\MVVMTest001.pdb
